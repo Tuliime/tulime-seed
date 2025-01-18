@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "name": "Rice",
+      "category": "crop",
+      "price": 3000,
+      "currency": "UGX",
+      "image": "/assets/images/agro/rice.png"
+    },
+    {
+      "name": "Maize",
+      "category": "crop",
+      "price": 1800,
+      "currency": "UGX",
+      "image": "/assets/images/agro/maize.png"
+    },
+    {
+      "name": "Matooke",
+      "category": "crop",
+      "price": 25000,
+      "currency": "UGX",
+      "image": "/assets/images/agro/matooke.png"
+    },
+    {
+      "name": "Cassava",
+      "category": "crop",
+      "price": 2200,
+      "currency": "UGX",
+      "image": "/assets/images/agro/cassava.png"
+    },
+    {
+      "name": "Beans",
+      "category": "crop",
+      "price": 4000,
+      "currency": "UGX",
+      "image": "/assets/images/agro/bean.png"
+    },
+    {
+      "name": "Sorghum",
+      "category": "crop",
+      "price": 1800,
+      "currency": "UGX",
+      "image": "/assets/images/agro/sorghum.png"
+    },
+    {
+      "name": "Groundnuts",
+      "category": "crop",
+      "price": 6000,
+      "currency": "UGX",
+      "image": "/assets/images/agro/gnuts.png"
+    },
+    {
+      "name": "Sunflower Seeds",
+      "category": "crop",
+      "price": 3000,
+      "currency": "UGX",
+      "image": "/assets/images/agro/sunflower.png"
+    },
+    {
+      "name": "Irish Potatoes",
+      "category": "crop",
+      "price": 2000,
+      "currency": "UGX",
+      "image": "/assets/images/agro/irish.png"
+    },
+    {
+      "name": "Sweet Potatoes",
+      "category": "crop",
+      "price": 1500,
+      "currency": "UGX",
+      "image": "/assets/images/agro/sweet-potatoes.png"
+    },
+    {
+      "name": "Soybeans",
+      "category": "crop",
+      "price": 3200,
+      "currency": "UGX",
+      "image": "/assets/images/agro/soybean.png"
+    },
+    {
+      "name": "Pumpkins",
+      "category": "crop",
+      "price": 2500,
+      "currency": "UGX",
+      "image": "/assets/images/agro/pumpkins.png"
+    },
+    {
+      "name": "Cattle",
+      "category": "livestock",
+      "price": 1200000,
+      "currency": "UGX",
+      "image": "/assets/images/agro/cow.png"
+    },
+    {
+      "name": "Goat",
+      "category": "livestock",
+      "price": 200000,
+      "currency": "UGX",
+      "image": "/assets/images/agro/goat.png"
+    },
+    {
+      "name": "Sheep",
+      "category": "livestock",
+      "price": 250000,
+      "currency": "UGX",
+      "image": "/assets/images/agro/sheep.png"
+    },
+    {
+      "name": "Chicken",
+      "category": "poultry",
+      "price": 25000,
+      "currency": "UGX",
+      "image": "/assets/images/agro/layers.png"
+    },
+    {
+      "name": "Broiler Chicken",
+      "category": "poultry",
+      "price": 18000,
+      "currency": "UGX",
+      "image": "/assets/images/agro/broiler.png"
+    },
+    {
+      "name": "Tray of Eggs",
+      "category": "poultry",
+      "price": 12000,
+      "currency": "UGX",
+      "image": "/assets/images/agro/eggs.png"
+    },
+    {
+      "name": "Tilapia",
+      "category": "fish",
+      "price": 15000,
+      "currency": "UGX",
+      "image": "/assets/images/agro/tilapia.png"
+    },
+    {
+      "name": "Nile Perch",
+      "category": "fish",
+      "price": 20000,
+      "currency": "UGX",
+      "image": "/assets/images/agro/nile-perch.png"
+    },
+    {
+      "name": "Catfish",
+      "category": "fish",
+      "price": 18000,
+      "currency": "UGX",
+      "image": "/assets/images/agro/catfish.png"
+    },
+    {
+      "name": "Silver Fish (Mukene)",
+      "category": "fish",
+      "price": 8000,
+      "currency": "UGX",
+      "image": "/assets/images/agro/mukene.png"
+    }
+  ]
+}
