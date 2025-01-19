@@ -5,7 +5,8 @@
   "scripts": {
     "start": "nodemon index.js",
     "seed-agro": "node agroproduct.js",
-    "seed-news": "node news.js"
+    "seed-news": "node news.js",
+    "seed-farminput": "node farminput.js"
   },
   "keywords": [],
   "author": "",

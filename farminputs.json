@@ -1,0 +1,204 @@
+{
+  "data": [
+    {
+      "name": "Potash",
+      "category": "fertilizer",
+      "purpose": "Improves drought resistance and disease tolerance in plants.",
+      "price": 15000,
+      "priceCurrency": "UGX",
+      "source": "Made In China",
+      "sourceUrl": "https://www.made-in-china.com/productdirectory.do?word=fertilizer",
+      "image": "/assets/images/farminputs/potash.png"
+    },
+    {
+      "name": "Urea",
+      "category": "fertilizer",
+      "purpose": "Improves soil fertility by supplying nitrogen.",
+      "price": 18000,
+      "priceCurrency": "UGX",
+      "source": "Made In China",
+      "sourceUrl": "https://www.made-in-china.com/productdirectory.do?word=fertilizer",
+      "image": "/assets/images/farminputs/urea.png"
+    },
+    {
+      "name": "Diammonium Phosphate (DAP)",
+      "category": "fertilizer",
+      "purpose": "Promotes root development and flowering.",
+      "price": 22000,
+      "priceCurrency": "UGX",
+      "source": "Made In Kenya",
+      "sourceUrl": "https://kenyanagricproducts.com",
+      "image": "/assets/images/farminputs/dap.png"
+    },
+    {
+      "name": "Calcium Ammonium Nitrate (CAN)",
+      "category": "fertilizer",
+      "purpose": "Enhances nutrient uptake efficiency.",
+      "price": 20000,
+      "priceCurrency": "UGX",
+      "source": "Made In South Africa",
+      "sourceUrl": "https://saagriculture.co.za",
+      "image": "/assets/images/farminputs/can.png"
+    },
+    {
+      "name": "Ammonium Sulfate",
+      "category": "fertilizer",
+      "purpose": "Provides nitrogen and sulfur essential for protein synthesis in plants.",
+      "price": 17000,
+      "priceCurrency": "UGX",
+      "source": "Made In India",
+      "sourceUrl": "https://www.agroinputsindia.com",
+      "image": "/assets/images/farminputs/ammonium-sulfate.png"
+    },
+    {
+      "name": "Muriate of Potash (MOP)",
+      "category": "fertilizer",
+      "purpose": "Improves drought resistance and increases disease tolerance.",
+      "price": 25000,
+      "priceCurrency": "UGX",
+      "source": "Made In China",
+      "sourceUrl": "https://www.made-in-china.com/productdirectory.do?word=fertilizer",
+      "image": "/assets/images/farminputs/mop.png"
+    },
+    {
+      "name": "Gypsum",
+      "category": "soil conditioner",
+      "purpose": "Improves soil structure and adds calcium and sulfur.",
+      "price": 12000,
+      "priceCurrency": "UGX",
+      "source": "Made In Uganda",
+      "sourceUrl": "https://ugandagricinputs.ug",
+      "image": "/assets/images/farminputs/gypsum.png"
+    },
+    {
+      "name": "Lime",
+      "category": "soil conditioner",
+      "purpose": "Neutralizes soil acidity and enhances nutrient availability.",
+      "price": 13000,
+      "priceCurrency": "UGX",
+      "source": "Made In Kenya",
+      "sourceUrl": "https://kenyanagricproducts.com",
+      "image": "/assets/images/farminputs/lime.png"
+    },
+    {
+      "name": "Insecticides",
+      "category": "pesticide",
+      "purpose": "Protects crops by controlling harmful insects.",
+      "price": 15000,
+      "priceCurrency": "UGX",
+      "source": "Made In Uganda",
+      "sourceUrl": "https://ugandagricinputs.ug",
+      "image": "/assets/images/farminputs/insecticides.png"
+    },
+    {
+      "name": "Herbicides",
+      "category": "pesticide",
+      "purpose": "Prevents and removes unwanted plants (weeds).",
+      "price": 14000,
+      "priceCurrency": "UGX",
+      "source": "Made In Uganda",
+      "sourceUrl": "https://ugandagricinputs.ug",
+      "image": "/assets/images/farminputs/herbicides.png"
+    },
+    {
+      "name": "Fungicides",
+      "category": "pesticide",
+      "purpose": "Controls fungal diseases that affect crops.",
+      "price": 18000,
+      "priceCurrency": "UGX",
+      "source": "Made In South Africa",
+      "sourceUrl": "https://saagriculture.co.za",
+      "image": "/assets/images/farminputs/fungicides.png"
+    },
+    {
+      "name": "Maize Seeds",
+      "category": "seeds",
+      "purpose": "High-yielding and drought-resistant crop variety.",
+      "price": 2500,
+      "priceCurrency": "UGX",
+      "source": "Made In Uganda",
+      "sourceUrl": "https://uganda-seeds.com",
+      "image": "/assets/images/farminputs/maize-seeds.png"
+    },
+    {
+      "name": "Bean Seeds",
+      "category": "seeds",
+      "purpose": "Improved disease-resistant variety for shorter maturity periods.",
+      "price": 3000,
+      "priceCurrency": "UGX",
+      "source": "Made In Uganda",
+      "sourceUrl": "https://uganda-seeds.com",
+      "image": "/assets/images/farminputs/bean-seeds.png"
+    },
+    {
+      "name": "Sorghum Seeds",
+      "category": "seeds",
+      "purpose": "Drought-tolerant and suitable for arid regions.",
+      "price": 2000,
+      "priceCurrency": "UGX",
+      "source": "Made In Kenya",
+      "sourceUrl": "https://kenyanagricproducts.com",
+      "image": "/assets/images/farminputs/sorghum-seeds.png"
+    },
+    {
+      "name": "Groundnut Seeds",
+      "category": "seeds",
+      "purpose": "High-oil content varieties for consumption and sale.",
+      "price": 3500,
+      "priceCurrency": "UGX",
+      "source": "Made In Uganda",
+      "sourceUrl": "https://uganda-seeds.com",
+      "image": "/assets/images/farminputs/groundnut-seeds.png"
+    },
+    {
+      "name": "Sweet Potato Vines",
+      "category": "cuttings",
+      "purpose": "High beta-carotene content for nutrition.",
+      "price": 1500,
+      "priceCurrency": "UGX",
+      "source": "Made In Uganda",
+      "sourceUrl": "https://uganda-seeds.com",
+      "image": "/assets/images/farminputs/sweet-potato-vines.png"
+    },
+    {
+      "name": "Animal Manure",
+      "category": "organic fertilizer",
+      "purpose": "Enhances soil fertility and structure.",
+      "price": 8000,
+      "priceCurrency": "UGX",
+      "source": "Made In Uganda",
+      "sourceUrl": "https://ugandagricinputs.ug",
+      "image": "/assets/images/farminputs/animal-manure.png"
+    },
+    {
+      "name": "Green Manure",
+      "category": "organic fertilizer",
+      "purpose": "Adds nutrients and organic matter to the soil.",
+      "price": 10000,
+      "priceCurrency": "UGX",
+      "source": "Made In Uganda",
+      "sourceUrl": "https://ugandagricinputs.ug",
+      "image": "/assets/images/farminputs/green-manure.png"
+    },
+    {
+      "name": "Bio-fertilizers",
+      "category": "fertilizer",
+      "purpose": "Enhances nutrient availability and uptake.",
+      "price": 20000,
+      "priceCurrency": "UGX",
+      "source": "Made In India",
+      "sourceUrl": "https://www.agroinputsindia.com",
+      "image": "/assets/images/farminputs/bio-fertilizers.png"
+    },
+    {
+      "name": "Irrigation Kit",
+      "category": "machinery",
+      "purpose": "Improves water management in agriculture.",
+      "price": 120000,
+      "priceCurrency": "UGX",
+      "source": "Made In Uganda",
+      "sourceUrl": "https://irrigationsupplies.ug",
+      "image": "/assets/images/farminputs/irrigation-kit.png"
+    }
+  ]
+}
