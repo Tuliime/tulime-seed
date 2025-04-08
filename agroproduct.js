@@ -34,6 +34,7 @@ async function postProduct(product) {
   }
 }
 
+// TODO: To properly update prices
 async function postPrice(productID, price, currency) {
   const priceEndpoint = `${baseURL}/${productID}/price`;
 
